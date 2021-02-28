@@ -4,15 +4,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raquellima7/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raquellimadev@gmail.com) [<img src="https://img.shields.io/github/followers/RaquelLima7?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RaquelLima7) 
 
 
-- 📖 Currently studying Web Developer bootcamp at <img src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" alt="ruby" width="25" height="25"/> </a>  Le Wagon with completion for June 2021.
+<h4> - 📖 Currently studying Web Developer bootcamp at <img src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" alt="ruby" width="25" height="25"/> </a>  Le Wagon with completion for June 2021.
 - 💡 Languages ​​I know: 🇧🇷 Portuguese, 🇺🇸 English and 🇩🇪 intermediate German
 - 🔭🔍 In constant learning and searching of new challenges.
 - 💻📚 Studying The Web Developer Bootcamp 2021
 Udemy. Learning: HTML5, CSS, JavaScript, AJAX, Bootstrap, SQL, MongoDB, REST among others.
 - 💻📚 Studying on LINUXtips: Docker, Kubernetes and Istio.
-- 🕵‍♂💼💻 *Looking for a job as Dev Junior*
+- 🕵‍♂💼💻 *Looking for a job as Dev Junior* </h5>
 
-
+<br>
 
 <h3 align="center">  
 Languages, Frameworks And Systems</h3>
