@@ -30,6 +30,5 @@ Languages, Frameworks And Systems</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/> </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="30" height="30"/> </a>
 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" width="30" height="30"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="30" height="30"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 <p>
