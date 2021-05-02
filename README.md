@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Raquel Limâ. 👋<h1> 
-<h2 align="center">I’m a web developer 💻 and Brazilian lawyer ⚖. <h2>
+<h2 align="center">Full-Stack Developer | Ruby on Rails <h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raquellima7/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raquellimadev@gmail.com) [<img src="https://img.shields.io/github/followers/RaquelLima7?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RaquelLima7) 
 
