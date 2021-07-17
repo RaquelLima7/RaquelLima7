@@ -7,11 +7,11 @@
 
 - 🎯 My goal is through **the technology help to make a better world.🌍**
 
-- 🗣️ I speak Portuguese 🇧🇷, **English 🇬🇧 and intermediate German 🇩🇪.**
+- 🗣️ I speak Portuguese 🇧🇷, English 🇬🇧 and intermediate German 🇩🇪.
 
 - 👨‍💻 All of my projects are available at [https://raquellima7.github.io/raquel-lima-dev/](https://raquellima7.github.io/raquel-lima-dev/)
 
-- 📫 How to reach me **raquellimadev@gmail.com**
+- 📫 How to reach me: **raquellimadev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
