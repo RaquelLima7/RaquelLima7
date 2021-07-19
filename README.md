@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Docker, React, Vue.js and improving the skills I have.**
 
-- 🎯 My goal is through **the technology help to make a better world.🌍**
+- 🎯 My goal is through the technology help to make a better world.🌍
 
 - 🗣️ I speak Portuguese 🇧🇷, English 🇬🇧 and intermediate German 🇩🇪.
 
-- 👨‍💻 All of my projects are available at [https://raquellima7.github.io/raquel-lima-dev/](https://raquellima7.github.io/raquel-lima-dev/)
+- 👨‍💻 All of my projects are available at: [click here to see my portfolio 🧐💻](https://raquellima7.github.io/raquel-lima-dev/)
 
 - 📫 How to reach me: **raquellimadev@gmail.com**
 
