@@ -9,7 +9,7 @@
 
 - 🗣️ I speak Portuguese 🇧🇷, English 🇬🇧 and intermediate German 🇩🇪.
 
-- 👨‍💻 All of my projects are available at: [click here to see my portfolio 🧐💻](https://raquellima7.github.io/raquel-lima-dev/)
+- 👨‍💻 All of my projects are available at: **[click here to see my portfolio 🧐💻](https://raquellima7.github.io/raquel-lima-dev/)**
 
 - 📫 How to reach me: **raquellimadev@gmail.com**
 
