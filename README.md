@@ -5,6 +5,8 @@
 
 - 👩‍🎓⚖ I graduated in law and worked as a lawyer having about 9 years of experience in this area.
 
+- ❤️ Passionate about technology.
+
 - 🌱 I’m currently learning **Docker, React, Vue.js and improving the skills I have.**
 
 - 🎯 My goal is through the technology help to make a better world.🌍
