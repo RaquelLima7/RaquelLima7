@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raquel Limâ</h1>
 <h3 align="center">Full-Stack Developer | Ruby on Rails</h3>
 
+<br>
+
 - 🔭 🔍 In constant learning and searching of new challenges.
 
 - 👩‍🎓⚖ I graduated in law and worked as a lawyer having about 9 years of experience in this area.
+
+- 👨‍💻 All of my projects are available at: **[click here to see my portfolio 🧐💻](https://raquellima7.github.io/raquel-lima-dev/)**
 
 - ❤️ Passionate about technology.
 
@@ -13,9 +17,9 @@
 
 - 🗣️ I speak Portuguese 🇧🇷, English 🇬🇧 and intermediate German 🇩🇪.
 
-- 👨‍💻 All of my projects are available at: **[click here to see my portfolio 🧐💻](https://raquellima7.github.io/raquel-lima-dev/)**
-
 - 📫 How to reach me: **raquellimadev@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
