@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raquel Limâ</h1>
 <h3 align="center">Full-Stack Developer | Ruby on Rails</h3>
 
-<br>
 
 - 🔭 🔍 In constant learning and searching of new challenges.
 
