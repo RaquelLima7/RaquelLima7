@@ -4,8 +4,6 @@
 
 - 🔭 🔍 In constant learning and searching of new challenges.
 
-- 👩‍🎓⚖ I graduated in law and worked as a lawyer having about 9 years of experience in this area.
-
 - 🥇🏆 I and my group won the Onebitcode Hackathon. The winning project was **[Quick Order](https://github.com/RaquelLima7/quickorder)**, **[click here](https://www.youtube.com/watch?v=IRHX0t6H-30&t=1s)** to see the presentation video (in Portuguese).
 
 - 🏆 I earned a LinkedIn Skill Assessment badge, being in the top 5% of 50.6k of people who took this test.
